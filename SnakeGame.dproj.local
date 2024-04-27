@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/26 17:02:49.000.684,=C:\Users\suporte2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/26 17:03:06.000.828,C:\Users\suporte2\Desktop\SnakeGame_Delphi\Unit_form_main.fmx=C:\Users\suporte2\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/04/26 17:03:06.000.828,C:\Users\suporte2\Desktop\SnakeGame_Delphi\Unit_form_main.pas=C:\Users\suporte2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/26 17:03:12.000.407,C:\Users\suporte2\Desktop\SnakeGame_Delphi\SnakeGame.dproj=C:\Users\suporte2\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
